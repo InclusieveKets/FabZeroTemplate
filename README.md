@@ -1,4 +1,4 @@
-# FabZero01
+# FabZerAlgemeen
 General Repo for the participants of the FabZero project and FabZero bootcamp 
 
 In this repo you will find
