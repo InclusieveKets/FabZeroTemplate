@@ -11,7 +11,7 @@ In this repo you will find
 
 
 
-## Welcome to your new Fab Academy site
+## Welcome to your new FabZero site
 
 - This website is built automatically by gitlab every time you edit the files in the docs folder
 - It does so thanks to [Mkdocs](https://mkdocs.org) a static site generator written in Python
